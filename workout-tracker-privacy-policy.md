@@ -1,5 +1,3 @@
-# Privacy Policy
-
 Last updated: January 19, 2026
 
 WorkoutTracker respects your privacy. This policy explains what data the app
